@@ -1,4 +1,4 @@
-<h1 style="text-align:center;width:100%;">Hey, I'm Axel 🤘</h1>
+<center> <h1>Hey, I'm Axel 🤘</h1> </center>
 
 ```python
 #!/usr/bin/env python3
