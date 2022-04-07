@@ -35,4 +35,11 @@ if __name__ == "__main__":
     axel_mierczuk.say_hi("world")
 ```
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=axelmierczuk&bg_color=ffffff&color=898989&line=05b2dc&point=0197bd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Current Project
+
+### _Malicious URL Detection_
+
+- Python3
+- TensorFlow
+- CNN
+- Sklearn
