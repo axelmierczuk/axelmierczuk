@@ -27,12 +27,12 @@ class AboutMe:
             ]
         }
     
-    def say_hi(self, name: str):
+    def say_hello(self, name: str):
         print(f"Hello, {name}!")
 
 if __name__ == "__main__":
     axel_mierczuk = AboutMe()
-    axel_mierczuk.say_hi("world")
+    axel_mierczuk.say_hello("world")
 ```
 
 ## Current Project
