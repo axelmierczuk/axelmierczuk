@@ -37,9 +37,8 @@ if __name__ == "__main__":
 
 ## Current Project
 
-### _Malicious URL Detection_
+### _Fentanyl_
 
-- Python3
-- TensorFlow
-- CNN
-- Sklearn
+- IDAPython plugin
+- Reverse engineering
+- Malware analysis
