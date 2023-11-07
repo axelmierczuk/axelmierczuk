@@ -34,11 +34,3 @@ if __name__ == "__main__":
     axel_mierczuk = AboutMe()
     axel_mierczuk.say_hello("world")
 ```
-
-## Current Project
-
-### _Fentanyl_
-
-- IDAPython plugin
-- Reverse engineering
-- Malware analysis
